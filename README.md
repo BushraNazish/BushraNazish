@@ -1,4 +1,12 @@
-### Hi 👋,I'm Bushra Nazish
+# Hi 👋,I'm Bushra Nazish
+
+## **DevOps | Open Source**
+
+- 🌱 I’m currently learning **DevOps**
+- 👯 I’m looking to collaborate on **GitHub** 
+- 📫 How to reach me: [*My Bio*](https://linktr.ee/BushraNazish)
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun fact: *I am a **Fitness Enthusiast***
 
 <!--
 **BushraNazish/BushraNazish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
