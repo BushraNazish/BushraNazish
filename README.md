@@ -2,7 +2,7 @@
 
 ## **DevOps | Open Source**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently currently working on **Web Development Projects**
 - 👯 I’m looking to collaborate on **GitHub** 
 - 📫 How to reach me: [*My Bio*](https://linktr.ee/BushraNazish)
 - 😄 Pronouns: **She/Her**
