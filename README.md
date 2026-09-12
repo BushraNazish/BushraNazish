@@ -37,8 +37,8 @@ More on [Hashnode](https://hashnode.com/@Bushra).
 
 ## 🛠 Tech
 
-**Languages:** Python · Java · SQL · C++
-**AI & Backend:** LangChain · LangGraph · FastAPI · Spring Boot · Node.js
-**Data & Cloud:** PostgreSQL · MySQL · BigQuery · Google Cloud Storage · Cloud Document AI · Vertex AI · Looker Studio
-**Frontend & Design:** React · Figma
+**Languages:** Python · Java · SQL · C++<br>
+**AI & Backend:** LangChain · LangGraph · FastAPI · Spring Boot · Node.js<br>
+**Data & Cloud:** PostgreSQL · MySQL · BigQuery · Google Cloud Storage · Cloud Document AI · Vertex AI · Looker Studio<br>
+**Frontend & Design:** React · Figma<br>
 **Tooling:** Git · GitHub · Jira · Notion · GitHub Copilot · Codex · Claude Code
