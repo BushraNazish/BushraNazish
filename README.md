@@ -9,7 +9,7 @@ I build LLM-powered applications and write the documentation, guides and demos t
 - 🧰 **Recent focus:** LangChain, LangGraph, FastAPI, BigQuery Vector Search, multi-provider LLM routing
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/bushra-nazish/) · [bushranazish083@gmail.com](mailto:bushranazish083@gmail.com) · [all my links](https://linktr.ee/BushraNazish)
 - 😄 **Pronouns:** She/Her
-- ⚡ **Fun fact:** fitness enthusiast — I treat a deadlift PR the same way I treat a green build
+- ⚡ **Fun fact:** fitness enthusiast - I treat a deadlift PR the same way I treat a green build
 
 ---
 
