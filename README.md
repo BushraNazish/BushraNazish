@@ -7,7 +7,7 @@ I build LLM-powered applications and write the documentation, guides and demos t
 - 🔭 **Currently building:** autonomous LLM agents, RAG pipelines and API-first services in Python
 - ✍️ **I also write:** long-form technical guides - my Git/GitHub work was picked up by Google's social channels and a cloud-native newsletter
 - 🧰 **Recent focus:** LangChain, LangGraph, FastAPI, BigQuery Vector Search, multi-provider LLM routing
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/bushra-nazish/) · [bushranazish083@gmail.com](mailto:bushranazish083@gmail.com) · [all my links](https://linktr.ee/BushraNazish)
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/bushra-nazish/) · [bushranazish083@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=bushranazish083@gmail.com) · [all my links](https://linktr.ee/BushraNazish)
 - 😄 **Pronouns:** She/Her
 - ⚡ **Fun fact:** fitness enthusiast - I treat a deadlift PR the same way I treat a green build
 
